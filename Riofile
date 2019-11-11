@@ -1,6 +1,0 @@
-services:
-  demo:
-   image: ./
-   scale: 2
-   ports:
-   - 80/http
